@@ -2,7 +2,7 @@ package com.alyaromin.task557;
 
 import java.util.Scanner;
 
-public class MultipleMatrix {
+public class Main {
 
     public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);

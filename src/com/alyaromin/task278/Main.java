@@ -2,7 +2,7 @@ package com.alyaromin.task278;
 
 import java.util.Scanner;
 
-public class Biology {
+public class Main {
 
     public static void main(String[] args) {
 	Scanner sc = new Scanner(System.in);
